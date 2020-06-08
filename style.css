@@ -38,7 +38,7 @@ header {
     font-size: 100px;
     text-align: right;
     margin-right: 50px;
-    background-image: url(../background2.jpg);
+    background-image: url("background2.jpg");
     font-family: 'Dancing Script', cursive;
     background-position: center right;
 }
